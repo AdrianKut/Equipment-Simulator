@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb2e2014d648bb34e93cc68a5232c37e, type: 3}
+  m_Name: Checked
+  m_EditorClassIdentifier: 
+  Name: Checked
+  Description: Checked shield
+  Icon: {fileID: 21300000, guid: efc27d9d223206d41a540588dc6fb7f0, type: 3}
+  ItemType: 1
+  Armor: 1
